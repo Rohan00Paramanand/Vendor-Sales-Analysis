@@ -20,4 +20,4 @@ This project focuses on **evaluating vendor performance** through **data-driven 
 * Generate **actionable insights** for procurement optimization and cost reduction
 * Enable **real-time reporting** via Power BI Service
 
-#### Dataset from Kaggle: https://www.kaggle.com/datasets/harshmadhavan/vendor-performance-analysis/data
+#### Dataset from Kaggle: https://www.kaggle.com/datasets/vivekkumarkamat/vendor-performance-analysis
